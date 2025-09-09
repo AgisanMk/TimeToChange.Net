@@ -1,2 +1,2 @@
-# TimeToChange.Net
+# TimeToChange .NET
 TimeToChange Backend in .NET
