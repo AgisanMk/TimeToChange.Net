@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="94fdf34a-feac-4418-a276-b3eabbee5e03" name="site53585.siteasp.net" url="http://site53585.siteasp.net">
+        <fileTransfer rootFolder="/wwwroot" accessType="SFTP" host="site53585.siteasp.net" port="22" sshConfigId="31bda49a-d8ad-4fea-ae05-d0f3b10b9385" sshConfig="site53585@site53585.siteasp.net:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="site53585.siteasp.net" id="31bda49a-d8ad-4fea-ae05-d0f3b10b9385" port="22" nameFormat="DESCRIPTIVE" username="site53585" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</project>
